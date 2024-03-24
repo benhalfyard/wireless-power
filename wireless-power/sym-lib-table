@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ERA_3AEB121V")(type "KiCad")(uri "${KIPRJMOD}/Components/ERA_3AEB121V/KiCADv6/ERA_3AEB121V.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM0335C1H390JA01D")(type "KiCad")(uri "${KIPRJMOD}/Components/GRM0335C1H390JA01D/GRM0335C1H390JA01D.kicad_sym")(options "")(descr ""))
+  (lib (name "RC0402FR_0720KL")(type "KiCad")(uri "${KIPRJMOD}/Components/RC0402FR_0720KL/KiCADv6/RC0402FR_0720KL.kicad_sym")(options "")(descr ""))
+  (lib (name "RC0603JR_0718KL")(type "KiCad")(uri "${KIPRJMOD}/Components/RC0603JR_0718KL/KiCADv6/RC0603JR_0718KL.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM155R71C103KA01D")(type "KiCad")(uri "${KIPRJMOD}/Components/GRM155R71C103KA01D/KiCADv6/GRM155R71C103KA01D.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM033R60J104KE19D")(type "KiCad")(uri "${KIPRJMOD}/Components/GRM033R60J104KE19D/KiCADv6/GRM033R60J104KE19D.kicad_sym")(options "")(descr ""))
+)
