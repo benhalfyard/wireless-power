@@ -6073,15 +6073,15 @@
 		(uuid "eb2a9be5-fc4c-48f9-ac5f-76dce897980e")
 	)
 	(gr_circle
-		(center 165.326186 76.962)
-		(end 177.264186 91.186)
+		(center 165.47 77.04)
+		(end 180.34 87.81)
 		(stroke
-			(width 0.05)
+			(width 0.1)
 			(type default)
 		)
 		(fill none)
-		(layer "Edge.Cuts")
-		(uuid "74e198e8-7e2c-4598-af2d-11a9b18bad1d")
+		(layer "F.SilkS")
+		(uuid "7130135f-bf51-4958-aaa7-67b12dadcf54")
 	)
 	(gr_rect
 		(start 111.252 56.896)
