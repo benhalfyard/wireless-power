@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-F_Cu.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-B_Cu.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-F_Paste.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-B_Paste.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-F_Mask.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-B_Mask.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\test-receiver\test-receiver-job.gbrjob'.
+Info: Done.

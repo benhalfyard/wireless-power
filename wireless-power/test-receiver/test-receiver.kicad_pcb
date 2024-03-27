@@ -74,7 +74,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -3657,6 +3657,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "00215803-fab3-43d0-bcba-24683259574f")
 	)
 	(gr_curve
@@ -3668,6 +3669,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0085bc34-7001-4af6-8fba-d9885e80446e")
 	)
 	(gr_curve
@@ -3679,6 +3681,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "00a1ea90-02e4-4d34-b728-e8c7f52a0ef7")
 	)
 	(gr_curve
@@ -3690,6 +3693,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "00fc1bc0-87b8-4a47-904c-3c37621e1f7f")
 	)
 	(gr_curve
@@ -3701,6 +3705,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "014ae49c-3642-4f21-a515-397e95edbb30")
 	)
 	(gr_curve
@@ -3712,6 +3717,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0167b3b7-0ee4-4c72-aa8b-fe87607c0281")
 	)
 	(gr_curve
@@ -3723,6 +3729,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0211841b-85dc-4765-b7f3-caab74b892fd")
 	)
 	(gr_curve
@@ -3734,6 +3741,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "023f1af6-3469-45d4-a4b1-2474d8bb6891")
 	)
 	(gr_curve
@@ -3745,6 +3753,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "02509aa0-e9ae-4c69-917e-f543e940553e")
 	)
 	(gr_curve
@@ -3756,6 +3765,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "025e416b-11d2-45af-82d6-c4dd2b24bbe2")
 	)
 	(gr_curve
@@ -3767,6 +3777,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "03aa7458-41c4-4b42-9432-e3f572020da6")
 	)
 	(gr_curve
@@ -3778,6 +3789,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "04258ed3-04ad-48e1-aa56-8927d681f802")
 	)
 	(gr_curve
@@ -3789,6 +3801,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "042c5941-fb16-47d7-a5de-56b53ec7ef0b")
 	)
 	(gr_curve
@@ -3800,6 +3813,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "04ed6248-afaf-44b6-921a-048716d052eb")
 	)
 	(gr_curve
@@ -3811,6 +3825,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "07673a9a-a3af-4c17-a777-3c732dcd4815")
 	)
 	(gr_curve
@@ -3822,6 +3837,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "07a0eff4-bb1f-4e84-95da-f71290be500f")
 	)
 	(gr_curve
@@ -3833,6 +3849,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "07d0328c-5619-4e94-a44d-a1b7206a322b")
 	)
 	(gr_curve
@@ -3844,6 +3861,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "092506f0-edc1-41eb-92ee-14721db278a5")
 	)
 	(gr_curve
@@ -3855,6 +3873,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0949ab17-d93f-4ca0-bf43-e35f4183f150")
 	)
 	(gr_curve
@@ -3866,6 +3885,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "097e5ce3-0791-4346-bcf1-839c34755232")
 	)
 	(gr_curve
@@ -3877,6 +3897,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0a6a540e-003c-4da4-96ee-cf311c7de1d5")
 	)
 	(gr_curve
@@ -3888,6 +3909,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0a872dec-da9d-4c79-a191-5610edfb8ea5")
 	)
 	(gr_curve
@@ -3899,6 +3921,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0b6c5034-80fa-421c-a777-c2d7bf5d77fd")
 	)
 	(gr_curve
@@ -3910,6 +3933,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0bd90d63-e46e-4eea-94cb-6ce5c38c4a3e")
 	)
 	(gr_curve
@@ -3921,6 +3945,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0c59a4b0-8110-465d-b825-5f28e79305ee")
 	)
 	(gr_curve
@@ -3932,6 +3957,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0ce3eeaa-517b-4940-b553-56f70c95f0ae")
 	)
 	(gr_curve
@@ -3943,6 +3969,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0d915383-bf01-4710-9f19-a250bc3198b7")
 	)
 	(gr_curve
@@ -3954,6 +3981,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0db103a2-4b71-4f65-ad19-ff69e317d588")
 	)
 	(gr_curve
@@ -3965,6 +3993,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0fce5017-ffa7-4c3d-8c68-b75a1a1a4c74")
 	)
 	(gr_curve
@@ -3976,6 +4005,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0fd3793b-eb96-4eee-9065-fe6dfb8246ec")
 	)
 	(gr_curve
@@ -3987,6 +4017,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "0fe4fcb6-3c5f-47c1-bf03-247e39dda269")
 	)
 	(gr_curve
@@ -3998,6 +4029,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1076d802-dbc1-43d1-a6b2-2b0ed7633d03")
 	)
 	(gr_curve
@@ -4009,6 +4041,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "10a80f41-5bb9-4e06-9c55-4a95449053f4")
 	)
 	(gr_curve
@@ -4020,6 +4053,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "10ab842d-348e-4cc0-85ba-55d97717db27")
 	)
 	(gr_curve
@@ -4031,6 +4065,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "120d1c43-0226-4a5b-8ce1-115d28e21c50")
 	)
 	(gr_curve
@@ -4042,6 +4077,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "12a3b05e-c075-4acd-b2d7-e70a7fac9b4f")
 	)
 	(gr_curve
@@ -4053,6 +4089,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "139f8114-7c40-4420-bb62-07b6d645e606")
 	)
 	(gr_curve
@@ -4064,6 +4101,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "150a7f77-fb1d-4ba5-abb8-eb026607f25a")
 	)
 	(gr_curve
@@ -4075,6 +4113,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "15257455-6ef1-4c51-8ca4-e1f411a85ff5")
 	)
 	(gr_curve
@@ -4086,6 +4125,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "168c6914-e474-4799-87e1-d430570d8084")
 	)
 	(gr_curve
@@ -4097,6 +4137,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "16abde0f-84ad-4e26-967e-4e9a313ab83a")
 	)
 	(gr_curve
@@ -4108,6 +4149,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "16fbe3b1-7da8-4198-ad3b-89f977f93c5e")
 	)
 	(gr_curve
@@ -4119,6 +4161,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "17b9be55-975d-4e6e-9cb5-d5641a2bcdf3")
 	)
 	(gr_curve
@@ -4130,6 +4173,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "17c93ba9-536d-4da2-82f7-3247dcd5b49e")
 	)
 	(gr_curve
@@ -4141,6 +4185,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "17e02619-781b-4574-ac04-101f3cf42c3a")
 	)
 	(gr_curve
@@ -4152,6 +4197,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "183f3618-a65b-435c-bdc9-046a46d4474d")
 	)
 	(gr_curve
@@ -4163,6 +4209,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "188811e5-1dbe-455f-b364-f647ea604252")
 	)
 	(gr_curve
@@ -4174,6 +4221,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "196c1f1f-8627-4ba1-8058-7fb03e3117b2")
 	)
 	(gr_curve
@@ -4185,6 +4233,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "19961ff6-bf16-4878-a110-4815bd7215e7")
 	)
 	(gr_curve
@@ -4196,6 +4245,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "19f2bdc8-f56f-479f-b1c8-441e8d3ead5d")
 	)
 	(gr_curve
@@ -4207,6 +4257,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1a122a3f-1607-4145-803c-2bcb205829d7")
 	)
 	(gr_curve
@@ -4218,6 +4269,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1b426aba-0e7f-4cc9-9422-9e1b144b6185")
 	)
 	(gr_curve
@@ -4229,6 +4281,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1be8298b-6be3-4440-9474-6732669b9fd9")
 	)
 	(gr_curve
@@ -4240,6 +4293,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1c0a85aa-e86d-43a1-a0bd-d1d485df4eda")
 	)
 	(gr_curve
@@ -4251,6 +4305,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1dede4bc-ed42-4322-8de0-6b503ec2366a")
 	)
 	(gr_curve
@@ -4262,6 +4317,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "1dfa2c27-cfbd-427c-95db-89416f09368e")
 	)
 	(gr_curve
@@ -4273,6 +4329,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "20669b01-a150-4a7a-b8ca-ec536bc36801")
 	)
 	(gr_curve
@@ -4284,6 +4341,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "21b965f0-5040-4d62-83e6-d365ae5e0780")
 	)
 	(gr_curve
@@ -4295,6 +4353,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "21c9dce1-540a-48e2-a83d-384326d0e219")
 	)
 	(gr_curve
@@ -4306,6 +4365,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2326bbec-66d5-407e-b652-89f4ff25873a")
 	)
 	(gr_curve
@@ -4317,6 +4377,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2377823f-d521-4795-8f74-71df375fde65")
 	)
 	(gr_curve
@@ -4328,6 +4389,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2425f714-76f9-4f65-89c7-d35840e3af3e")
 	)
 	(gr_curve
@@ -4339,6 +4401,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2513287c-64ee-4316-8f70-5045d7dd954e")
 	)
 	(gr_curve
@@ -4350,6 +4413,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2543f750-2fb3-4e4e-aa6c-ccf365859a40")
 	)
 	(gr_curve
@@ -4361,6 +4425,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "271f4535-4638-42e7-9048-8ffbceb20d46")
 	)
 	(gr_curve
@@ -4372,6 +4437,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2769fc75-b8c2-4eab-962e-330860a1fcb3")
 	)
 	(gr_curve
@@ -4383,6 +4449,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2891dffa-97cd-4e4c-811f-433b01c43c2e")
 	)
 	(gr_curve
@@ -4394,6 +4461,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "29055041-9ae1-49fd-8249-49f573494b4b")
 	)
 	(gr_curve
@@ -4405,6 +4473,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "291ee570-ac8f-4b9e-8e78-74eae50dfeb5")
 	)
 	(gr_curve
@@ -4416,6 +4485,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2ab0cd7c-ddfe-4c55-b7fb-bfb05fd42723")
 	)
 	(gr_curve
@@ -4427,6 +4497,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2b3400c3-805b-4259-8f9e-0bd950346de2")
 	)
 	(gr_curve
@@ -4438,6 +4509,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2d284a65-2a18-49e9-ba81-f2062c5b7d86")
 	)
 	(gr_curve
@@ -4449,6 +4521,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2defe2e4-7311-4e4e-8ca0-bcc45e77f62a")
 	)
 	(gr_curve
@@ -4460,6 +4533,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2e1c1c45-1826-4658-809d-cfac09d0d19c")
 	)
 	(gr_curve
@@ -4471,6 +4545,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2e29267a-2e11-494c-8f33-c5a03e2a9670")
 	)
 	(gr_curve
@@ -4482,6 +4557,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2e77b0c8-2387-4d6c-9bb5-9522a43422a8")
 	)
 	(gr_curve
@@ -4493,6 +4569,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "2ee848c0-6a4d-44aa-a559-50c6b24b4c64")
 	)
 	(gr_curve
@@ -4504,6 +4581,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "30089bce-c58f-4459-8819-a74b4ee647d9")
 	)
 	(gr_curve
@@ -4515,6 +4593,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3038295d-0d16-4352-ad26-efc0782a1888")
 	)
 	(gr_curve
@@ -4526,6 +4605,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "31a334e9-21ae-4488-9d4b-ec572d8bdb0c")
 	)
 	(gr_curve
@@ -4537,6 +4617,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "32f158d7-3963-471e-82bc-c39de5aa51f8")
 	)
 	(gr_curve
@@ -4548,6 +4629,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "32fccc39-c79c-490c-9533-cb64fef27d72")
 	)
 	(gr_curve
@@ -4559,6 +4641,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "331bb42f-cc58-44d7-b14c-daf18f2e06cd")
 	)
 	(gr_curve
@@ -4570,6 +4653,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "33c6c893-9276-4b30-834a-e5e610061237")
 	)
 	(gr_curve
@@ -4581,6 +4665,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "33d0317a-bdd2-4466-a69a-3a65f17bfd09")
 	)
 	(gr_curve
@@ -4592,6 +4677,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3405ccd9-8fb9-4425-9758-3b211cd25928")
 	)
 	(gr_curve
@@ -4603,6 +4689,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "342a595b-1aba-472f-9abc-05c2f3fdd6c0")
 	)
 	(gr_curve
@@ -4614,6 +4701,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3514a05b-e8fa-4862-b18f-167ab374a6fa")
 	)
 	(gr_curve
@@ -4625,6 +4713,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "36260d4c-96dd-4d40-988b-963d9cecc953")
 	)
 	(gr_curve
@@ -4636,6 +4725,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "36314c26-e52d-4934-91fc-0081c048d7d7")
 	)
 	(gr_curve
@@ -4647,6 +4737,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "368478f6-79ca-4d23-bcf4-c3c132e43d54")
 	)
 	(gr_curve
@@ -4658,6 +4749,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "36e7d33a-7ba2-4000-9a12-9c85ad7714fd")
 	)
 	(gr_curve
@@ -4669,6 +4761,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "37c2557a-9ca9-452c-8c75-ef24c563b351")
 	)
 	(gr_curve
@@ -4680,6 +4773,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "385b7165-e44a-45e9-9f90-90634118ce06")
 	)
 	(gr_curve
@@ -4691,6 +4785,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "38b04750-d0cc-4bed-b0dc-e826da9156f0")
 	)
 	(gr_curve
@@ -4702,6 +4797,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "39091da3-3838-437d-8beb-2caefe5963b8")
 	)
 	(gr_curve
@@ -4713,6 +4809,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3938b118-7cbd-441f-bb37-e7067bda1b62")
 	)
 	(gr_curve
@@ -4724,6 +4821,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "398403be-726e-4e79-8158-0f67346a13e9")
 	)
 	(gr_curve
@@ -4735,6 +4833,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3a483c05-97dd-4430-8b47-cf8c650b4f91")
 	)
 	(gr_curve
@@ -4746,6 +4845,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3a954d10-c7ab-41dc-ad86-482d02d9311f")
 	)
 	(gr_curve
@@ -4757,6 +4857,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3b403923-54f3-482d-ad84-4b6fa3ddd082")
 	)
 	(gr_curve
@@ -4768,6 +4869,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3c2981e8-77d2-4e93-ba3f-a7a58e2f14bc")
 	)
 	(gr_curve
@@ -4779,6 +4881,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3d7547d8-8235-4f33-b9a7-bf72fc1ac54e")
 	)
 	(gr_curve
@@ -4790,6 +4893,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3d94d208-3dcb-4421-a566-dc388b413747")
 	)
 	(gr_curve
@@ -4801,6 +4905,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3da53eba-d7f7-4a66-a032-3f2c32a33197")
 	)
 	(gr_curve
@@ -4812,6 +4917,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3f6b93df-8f40-4646-acd9-c6e15f027f6a")
 	)
 	(gr_curve
@@ -4823,6 +4929,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "3fa8ac13-e070-4edf-a270-9d354568c69f")
 	)
 	(gr_curve
@@ -4834,6 +4941,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "405ece96-87ae-4141-8f7e-d12af87cf3a1")
 	)
 	(gr_curve
@@ -4845,6 +4953,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "40762101-3084-4571-9021-9cdfac48e6de")
 	)
 	(gr_curve
@@ -4856,6 +4965,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4081d3d7-7f47-4ff9-abb8-f1060a4bedc7")
 	)
 	(gr_curve
@@ -4867,6 +4977,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "41315372-f6b1-4eeb-9a92-067958e3331b")
 	)
 	(gr_curve
@@ -4878,6 +4989,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "42cf301e-1e2a-4c25-963b-b77a495bdaf3")
 	)
 	(gr_curve
@@ -4889,6 +5001,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "431e81ac-3fa9-41d2-8009-2b13b0a295c1")
 	)
 	(gr_curve
@@ -4900,6 +5013,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "43713b8a-c4e2-4af5-a5ef-e1909f617da6")
 	)
 	(gr_curve
@@ -4911,6 +5025,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4418ee02-27c5-4c41-9a63-3fd1d9698bf8")
 	)
 	(gr_curve
@@ -4922,6 +5037,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "44b6dcb1-5b20-4d34-af1e-2c50c2cd80e1")
 	)
 	(gr_curve
@@ -4933,6 +5049,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "44f16ab9-19ef-4c51-b03f-abfdd394b3ea")
 	)
 	(gr_curve
@@ -4944,6 +5061,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4514bd54-d98e-48ba-bb0a-47701c13bcef")
 	)
 	(gr_curve
@@ -4955,6 +5073,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4543eda4-63c9-49e7-a38a-bbe38b46b90e")
 	)
 	(gr_curve
@@ -4966,6 +5085,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "45e04074-a559-49a8-a30e-5aaa359826bc")
 	)
 	(gr_curve
@@ -4977,6 +5097,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "473b0e2c-5a19-4470-b195-39e064e23222")
 	)
 	(gr_curve
@@ -4988,6 +5109,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "474064f3-faf0-43e8-9826-a63a277e13b1")
 	)
 	(gr_curve
@@ -4999,6 +5121,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "48170d5d-fc24-42cd-b6f0-3c2ddc5e700d")
 	)
 	(gr_line
@@ -5021,6 +5144,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "49f77740-983f-46f3-9cda-b540bb3b552e")
 	)
 	(gr_curve
@@ -5032,6 +5156,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4a06915d-a29a-4e80-8e6e-762eec088982")
 	)
 	(gr_curve
@@ -5043,6 +5168,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4b3b04e2-54f2-4119-b561-9e90b8e489f0")
 	)
 	(gr_curve
@@ -5054,6 +5180,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4bc4af51-22d4-44cc-b5d7-b27caf2ee222")
 	)
 	(gr_curve
@@ -5065,6 +5192,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4d2a3539-c692-452d-ad36-57d12f6f4244")
 	)
 	(gr_curve
@@ -5076,6 +5204,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4e64a4b3-b28c-45fc-825f-43e64120a27a")
 	)
 	(gr_curve
@@ -5087,6 +5216,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4ec3a4a6-d0cc-4e32-8d94-ab245aa611fc")
 	)
 	(gr_curve
@@ -5098,6 +5228,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "4fe20595-7d91-481b-9970-5dcbc1f34bc3")
 	)
 	(gr_curve
@@ -5109,6 +5240,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5042b3e7-40ff-4a0f-b85c-4fefb029a366")
 	)
 	(gr_curve
@@ -5120,6 +5252,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "51a3faae-5a7b-4a1a-87d8-5644d75344e6")
 	)
 	(gr_curve
@@ -5131,6 +5264,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "51aaa3cd-2537-41bd-a73e-3a53e6d38587")
 	)
 	(gr_curve
@@ -5142,6 +5276,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "51e7d225-8b49-4eb7-8347-ab139a064197")
 	)
 	(gr_curve
@@ -5153,6 +5288,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5308208f-65e7-4738-9440-875d6b5466a3")
 	)
 	(gr_curve
@@ -5164,6 +5300,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "53282151-0e05-40f3-980f-6b9b460d67be")
 	)
 	(gr_curve
@@ -5175,6 +5312,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "53bcff35-1926-485b-90ae-9510a4310905")
 	)
 	(gr_curve
@@ -5186,6 +5324,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5458dba0-221e-4d2b-9141-317145f6993e")
 	)
 	(gr_curve
@@ -5197,6 +5336,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5589464f-14a3-43c1-a633-6cf9a9363294")
 	)
 	(gr_curve
@@ -5208,6 +5348,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "56576634-0f24-4f79-ac81-81a0f41a4889")
 	)
 	(gr_curve
@@ -5219,6 +5360,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "56ccd27f-4317-4ea6-a12c-261d87bc2f32")
 	)
 	(gr_curve
@@ -5230,6 +5372,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "56e3c36d-7281-4820-8290-bfef461bf4e3")
 	)
 	(gr_curve
@@ -5241,6 +5384,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "574d0734-a83a-4afc-9670-9776f4bb622e")
 	)
 	(gr_curve
@@ -5252,6 +5396,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "57986552-b58e-4c9a-b07e-9afc6a84a29a")
 	)
 	(gr_curve
@@ -5263,6 +5408,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "57b3f1c2-c11c-4359-8b46-8f62c4f5e3ee")
 	)
 	(gr_curve
@@ -5274,6 +5420,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "57d74d89-3abf-4272-867b-c993cf555a54")
 	)
 	(gr_curve
@@ -5285,6 +5432,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "57e1e565-e41f-45a1-84fa-9dceadc48d44")
 	)
 	(gr_curve
@@ -5296,6 +5444,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5893af1e-a249-41a0-9f9d-c601b953ef80")
 	)
 	(gr_curve
@@ -5307,6 +5456,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5a3c8433-35f8-473a-a5cf-88cd6f5eaf53")
 	)
 	(gr_curve
@@ -5318,6 +5468,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5a3f1acf-1bef-45c0-a0f0-3fcbdb3b5246")
 	)
 	(gr_curve
@@ -5329,6 +5480,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5a3f2ae5-165c-4ac5-aa76-7af6b4adc98e")
 	)
 	(gr_curve
@@ -5340,6 +5492,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5c9fe064-0059-4fc3-9666-9877465b4129")
 	)
 	(gr_curve
@@ -5351,6 +5504,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5d03b8c6-4261-4fc9-bcce-fbbb5b0f29ad")
 	)
 	(gr_curve
@@ -5362,6 +5516,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5d182d3b-db99-4f26-b983-9d9315a52321")
 	)
 	(gr_curve
@@ -5373,6 +5528,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5dd004ee-700b-471e-892c-c2109e45eb32")
 	)
 	(gr_curve
@@ -5384,6 +5540,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5e84491e-606d-4b73-af07-ccbf3cd03187")
 	)
 	(gr_curve
@@ -5395,6 +5552,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "5efb71b3-7d77-4a6d-bab3-e31f80300a42")
 	)
 	(gr_curve
@@ -5406,6 +5564,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "608d0427-a7bf-4298-9940-5ad03106ad97")
 	)
 	(gr_curve
@@ -5417,6 +5576,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "60c37b9e-9f16-4afc-8ee2-3a588d560faf")
 	)
 	(gr_curve
@@ -5428,6 +5588,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "60eaa9cd-4742-41af-babb-65fbf66ab2c3")
 	)
 	(gr_curve
@@ -5439,6 +5600,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6116fba4-3a2d-4c15-afb8-5127958b8761")
 	)
 	(gr_curve
@@ -5450,6 +5612,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "62012c61-11a2-4bd5-8c03-5bdbb3c75deb")
 	)
 	(gr_curve
@@ -5461,6 +5624,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "62034fee-839e-49b7-85d7-eceb03ef9852")
 	)
 	(gr_curve
@@ -5472,6 +5636,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "63d2bef2-9c3a-435f-b392-a8a201d2820c")
 	)
 	(gr_curve
@@ -5483,6 +5648,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6452a2a3-faf5-4ce4-8e94-ef28a997b336")
 	)
 	(gr_curve
@@ -5494,6 +5660,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "647f33a6-afc7-4cf1-83d9-bdb8adb4612e")
 	)
 	(gr_curve
@@ -5505,6 +5672,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "64b5ed57-d581-4aa6-a338-2d0d0f3e2414")
 	)
 	(gr_curve
@@ -5516,6 +5684,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "64b7f7b4-ac88-4f16-8b2e-d671b8e94c79")
 	)
 	(gr_curve
@@ -5527,6 +5696,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "66e43e2d-d799-4975-803c-15ebfc71400d")
 	)
 	(gr_curve
@@ -5538,6 +5708,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6a5d7ac7-dd38-4d10-824f-8d73b6722637")
 	)
 	(gr_curve
@@ -5549,6 +5720,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6a9c43cc-c215-42e5-8cec-9a7ff9dcbcbc")
 	)
 	(gr_curve
@@ -5560,6 +5732,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6aa5b0c7-80c9-4f71-b864-3f3ccd7f0519")
 	)
 	(gr_curve
@@ -5571,6 +5744,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6bb90f37-21d9-42b8-905a-e74807b3b9d6")
 	)
 	(gr_curve
@@ -5582,6 +5756,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6cf678d5-78fa-425d-b21a-d1394ce02cfc")
 	)
 	(gr_curve
@@ -5593,6 +5768,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6d4b0825-f8d5-411c-9637-e1463e382a12")
 	)
 	(gr_curve
@@ -5604,6 +5780,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6e8bd536-9a0e-4e33-948d-61f1a3ce7986")
 	)
 	(gr_curve
@@ -5615,6 +5792,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6eb7ea64-00b0-4dd8-ac69-4b91fc251f70")
 	)
 	(gr_curve
@@ -5626,6 +5804,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6ecb8b8d-1e2d-4f5a-86ba-8e1307c49269")
 	)
 	(gr_curve
@@ -5637,6 +5816,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "6fdd04a6-5cc4-4154-9529-7c187915114e")
 	)
 	(gr_curve
@@ -5648,6 +5828,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "710d9a9c-1105-4f05-aca9-a16eace7352a")
 	)
 	(gr_curve
@@ -5659,6 +5840,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "711233ad-8dcf-45ca-9d6e-0a7f6412001b")
 	)
 	(gr_curve
@@ -5670,6 +5852,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "71520269-95c9-4e1b-91b4-824baf97c7d4")
 	)
 	(gr_curve
@@ -5681,6 +5864,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "717a0d4e-2dbc-4109-9810-50d21fd64356")
 	)
 	(gr_curve
@@ -5692,6 +5876,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "721f9c40-e488-4454-86b9-06e23d25863d")
 	)
 	(gr_curve
@@ -5703,6 +5888,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "73a72800-8af4-4dc0-ad22-f231cdf9d64c")
 	)
 	(gr_curve
@@ -5714,6 +5900,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7434468f-19af-44cc-8e62-9d6ce4c04775")
 	)
 	(gr_curve
@@ -5725,6 +5912,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "75a53224-ad04-4cfe-9d80-02acee528d13")
 	)
 	(gr_curve
@@ -5736,6 +5924,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "75ae6f69-e30e-492e-9f3d-5b50b1a4214f")
 	)
 	(gr_curve
@@ -5747,6 +5936,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "75e9e1d1-0887-4930-938f-474a54e36d09")
 	)
 	(gr_curve
@@ -5758,6 +5948,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "76fe0c1f-8f0d-4228-b2e5-55162f06a907")
 	)
 	(gr_curve
@@ -5769,6 +5960,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "77848417-bcd7-4187-aad9-9f28c1b21b0c")
 	)
 	(gr_curve
@@ -5780,6 +5972,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "78913ce7-1b02-4380-91dc-4535c6b68133")
 	)
 	(gr_curve
@@ -5791,6 +5984,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "78c7ee21-e454-4de2-85b3-03a4898416ed")
 	)
 	(gr_curve
@@ -5802,6 +5996,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7957e27f-c730-4206-94f7-cbec151382b8")
 	)
 	(gr_curve
@@ -5813,6 +6008,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7a480461-f825-4149-8f89-cad0f662b946")
 	)
 	(gr_curve
@@ -5824,6 +6020,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7a78aecf-da9b-43d5-8a35-f695664512b5")
 	)
 	(gr_curve
@@ -5835,6 +6032,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7ae1cd7b-034d-4e68-a042-76eac1ed73d1")
 	)
 	(gr_curve
@@ -5846,6 +6044,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7c312ee5-f708-47cd-927e-f22730af4242")
 	)
 	(gr_curve
@@ -5857,6 +6056,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7c7b2948-646c-4876-92be-ec541a3760c8")
 	)
 	(gr_curve
@@ -5868,6 +6068,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7c7cce01-a91b-49c3-8c4b-250dfd155e98")
 	)
 	(gr_curve
@@ -5879,6 +6080,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7c81cf71-1850-4cc5-af2a-98a819fc57bd")
 	)
 	(gr_curve
@@ -5890,6 +6092,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7c9463f3-52e1-4caa-a56d-9010a929e5cc")
 	)
 	(gr_curve
@@ -5901,6 +6104,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7cea7a57-2865-4737-aa1f-6170d1a053e0")
 	)
 	(gr_curve
@@ -5912,6 +6116,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7d066f86-6af6-4234-b4c1-844790f257bf")
 	)
 	(gr_curve
@@ -5923,6 +6128,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7de37a30-128d-481b-94d0-17c09c4b1a8a")
 	)
 	(gr_curve
@@ -5934,6 +6140,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7dfb124b-eceb-4874-8bf8-386a9686be66")
 	)
 	(gr_curve
@@ -5945,6 +6152,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7e089d73-10ad-4965-b8dc-16ec35928598")
 	)
 	(gr_curve
@@ -5956,6 +6164,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "7f8e96ef-5604-4627-90c6-87d65ae8cc00")
 	)
 	(gr_curve
@@ -5967,6 +6176,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "80f959fb-c1f8-45fa-aeba-676b98c827c3")
 	)
 	(gr_curve
@@ -5978,6 +6188,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "829d965a-0ec4-409a-9c80-1d2109e9f370")
 	)
 	(gr_curve
@@ -5989,6 +6200,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "82ef379b-4d3b-44b7-9c22-137bd6039c54")
 	)
 	(gr_curve
@@ -6000,6 +6212,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8516f6a1-760e-42be-9698-4bceb395506c")
 	)
 	(gr_curve
@@ -6011,6 +6224,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "85916c18-e9c4-484a-84cc-9542a17a0335")
 	)
 	(gr_curve
@@ -6022,6 +6236,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8670d23b-d0fc-43a4-aab7-fdf8412a43e1")
 	)
 	(gr_curve
@@ -6033,6 +6248,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8906b420-2d76-4cc8-a3ad-336a34c17e98")
 	)
 	(gr_curve
@@ -6044,6 +6260,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "89ae8b92-73ec-40de-b360-2a7695bd0da4")
 	)
 	(gr_curve
@@ -6055,6 +6272,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8a5db002-f32b-49ef-935d-95e903b4b7ec")
 	)
 	(gr_curve
@@ -6066,6 +6284,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8a644545-e145-46a0-ba3c-cf5f55bcd9b5")
 	)
 	(gr_curve
@@ -6077,6 +6296,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8ad2b128-a71b-4a62-92b5-aca796af91aa")
 	)
 	(gr_line
@@ -6099,6 +6319,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8cc35873-2726-4bd6-8989-52c7c7928546")
 	)
 	(gr_curve
@@ -6110,6 +6331,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8d04c372-0557-4301-bc9e-572a75eca013")
 	)
 	(gr_curve
@@ -6121,6 +6343,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8d63896d-f35e-40d5-8768-97058d220a04")
 	)
 	(gr_curve
@@ -6132,6 +6355,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8e416a10-57cc-4f7b-bfff-814bb3e2a74b")
 	)
 	(gr_curve
@@ -6143,6 +6367,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8e5622d6-5ba4-4d04-b1f9-5d80364faf56")
 	)
 	(gr_curve
@@ -6154,6 +6379,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8ece59ec-35cd-4e70-8eab-c7529d40feb2")
 	)
 	(gr_curve
@@ -6165,6 +6391,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8efb8500-bac3-4d36-88b9-e18246bf579f")
 	)
 	(gr_curve
@@ -6176,6 +6403,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "8f99aed4-2edb-4bc7-808d-fc866e5953f1")
 	)
 	(gr_curve
@@ -6187,6 +6415,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "906c4df8-167c-4a9e-983d-6e14560c236e")
 	)
 	(gr_curve
@@ -6198,6 +6427,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "929faa9c-726d-4c81-aea0-e017052cc3fb")
 	)
 	(gr_curve
@@ -6209,6 +6439,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9354b57b-485a-4fc8-933a-7ee24366dacc")
 	)
 	(gr_curve
@@ -6220,6 +6451,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "93e5a2ff-0563-4a69-b6e4-87f69f2e6744")
 	)
 	(gr_curve
@@ -6231,6 +6463,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "94358917-9e48-41ed-81a6-2a1cb04fb52b")
 	)
 	(gr_curve
@@ -6242,6 +6475,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9444e608-adfe-40dc-905e-fa2ad2175eca")
 	)
 	(gr_curve
@@ -6253,6 +6487,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "946a7414-4e11-4247-aac8-12df32389ed0")
 	)
 	(gr_curve
@@ -6264,6 +6499,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "947c04af-b533-4d14-81a1-f8c49b1f6785")
 	)
 	(gr_curve
@@ -6275,6 +6511,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "94b68f05-b4c6-4127-92e9-da2c453047aa")
 	)
 	(gr_curve
@@ -6286,6 +6523,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "94bb2d65-dddd-47ac-9725-07d484eeecd5")
 	)
 	(gr_curve
@@ -6297,6 +6535,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "97d040b9-3155-444b-8a35-07d3dcfde17c")
 	)
 	(gr_curve
@@ -6308,6 +6547,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9830938e-4e9c-47c7-8b9a-2d6678320095")
 	)
 	(gr_curve
@@ -6319,6 +6559,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9854aa6f-6b9a-4e9d-ae42-3d9d39c33edd")
 	)
 	(gr_curve
@@ -6330,6 +6571,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9855c0e2-ecec-4602-b820-a58e0687da2f")
 	)
 	(gr_curve
@@ -6341,6 +6583,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "99109ff9-372b-4c53-adef-866046cf1704")
 	)
 	(gr_curve
@@ -6352,6 +6595,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9913a123-bb66-4353-8f3d-e6d5203cf813")
 	)
 	(gr_curve
@@ -6363,6 +6607,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "991e9c17-e4e5-4d96-8593-4e103a5517e6")
 	)
 	(gr_curve
@@ -6374,6 +6619,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "99d90027-81f3-44f5-9c85-ff2afaac5d43")
 	)
 	(gr_curve
@@ -6385,6 +6631,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9a13bf9c-1db3-4018-875e-4f195121f70a")
 	)
 	(gr_curve
@@ -6396,6 +6643,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9b139b45-d9ef-401f-af6f-66e7974a9991")
 	)
 	(gr_curve
@@ -6407,6 +6655,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9b458c02-9a29-4ce3-86e2-3399edb45efa")
 	)
 	(gr_curve
@@ -6418,6 +6667,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9c0808f9-dbaa-4005-8c0a-31ff27b7fe67")
 	)
 	(gr_curve
@@ -6429,6 +6679,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9c632b38-4c9e-48ed-835d-1182a3b43242")
 	)
 	(gr_curve
@@ -6440,6 +6691,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9e499879-3962-4725-bdda-c018ab3f6700")
 	)
 	(gr_curve
@@ -6451,6 +6703,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9e654b10-10d7-4264-bed6-b07f14f779bc")
 	)
 	(gr_curve
@@ -6462,6 +6715,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "9e85d1c9-ba70-4dc8-bd49-b03b37762fed")
 	)
 	(gr_curve
@@ -6473,6 +6727,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a078a597-5e02-40ca-86ae-a9bb5f0a2c6c")
 	)
 	(gr_curve
@@ -6484,6 +6739,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a268376d-a24f-4daf-8e92-029135688b82")
 	)
 	(gr_curve
@@ -6495,6 +6751,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a38338a4-2b30-4cd9-8874-3c219217945c")
 	)
 	(gr_curve
@@ -6506,6 +6763,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a4f86ccf-da67-414f-843a-87627cfb7bda")
 	)
 	(gr_curve
@@ -6517,6 +6775,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a5dc0ee9-b8d6-46fa-b3e8-4c05fff9e29c")
 	)
 	(gr_curve
@@ -6528,6 +6787,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a6a269e2-5ee8-424f-85ee-4117639e9e36")
 	)
 	(gr_curve
@@ -6539,6 +6799,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a7566d48-e2f1-4291-a4af-321666f3537f")
 	)
 	(gr_curve
@@ -6550,6 +6811,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a760b41b-174e-48ef-b6b4-9d3ba1472353")
 	)
 	(gr_curve
@@ -6561,6 +6823,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a81477f7-5e25-4492-b78d-4c1eac0b7656")
 	)
 	(gr_curve
@@ -6572,6 +6835,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a89cee82-c639-43af-977c-1a6997773f63")
 	)
 	(gr_curve
@@ -6583,6 +6847,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "a99f93f7-994d-4bc5-a74b-2f28997253f2")
 	)
 	(gr_curve
@@ -6594,6 +6859,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ab5fa00c-0009-4812-85dc-8dffcaac82e6")
 	)
 	(gr_curve
@@ -6605,6 +6871,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "abc429a6-6546-4737-bec7-8eacc4f91b31")
 	)
 	(gr_curve
@@ -6616,6 +6883,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "abe0b1de-2c45-42f4-8f2b-27513c1708b3")
 	)
 	(gr_curve
@@ -6627,6 +6895,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ac094629-f655-4ecc-9ee5-c34a9970eb78")
 	)
 	(gr_curve
@@ -6638,6 +6907,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ace1588a-fe04-4f3f-bf0d-e440f3e44fba")
 	)
 	(gr_curve
@@ -6649,6 +6919,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ad4c361a-fd6c-4f63-9c5a-a542494d96ee")
 	)
 	(gr_curve
@@ -6660,6 +6931,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ad5ec4e8-b4f2-41ca-9643-3d7c76ea9e16")
 	)
 	(gr_curve
@@ -6671,6 +6943,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ae10676b-8923-4efc-801f-4a533121bedd")
 	)
 	(gr_curve
@@ -6682,6 +6955,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "aff9b2f2-fb47-404d-b3f5-7917708eb147")
 	)
 	(gr_curve
@@ -6693,6 +6967,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b01bb7d8-114c-42d2-a907-ab22220a0e0e")
 	)
 	(gr_curve
@@ -6704,6 +6979,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b0358a5b-ba87-40c2-9657-9926b9ada523")
 	)
 	(gr_curve
@@ -6715,6 +6991,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b065517c-5a18-49bc-8c1e-345f795b2141")
 	)
 	(gr_curve
@@ -6726,6 +7003,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b0a0ae1a-df26-4283-879b-4f1f64ddf2c6")
 	)
 	(gr_curve
@@ -6737,6 +7015,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b17b72ed-9349-494e-814b-77c035e53e94")
 	)
 	(gr_curve
@@ -6748,6 +7027,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b1e123ff-3f33-4e4b-ab8b-fe9957629877")
 	)
 	(gr_curve
@@ -6759,6 +7039,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b25617b8-6d02-4f30-9d68-983faa7904e1")
 	)
 	(gr_curve
@@ -6770,6 +7051,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b2a52d1a-93e5-4a6e-a9a8-c31996fafa9d")
 	)
 	(gr_curve
@@ -6781,6 +7063,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b2fa8529-dc4b-4d6a-a829-c0a157cc66a8")
 	)
 	(gr_curve
@@ -6792,6 +7075,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b4201e07-fa4d-4636-87db-87cafa3bd3c7")
 	)
 	(gr_curve
@@ -6803,6 +7087,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b434b021-0ac2-4fee-91d7-b3ab31a385f7")
 	)
 	(gr_curve
@@ -6814,6 +7099,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b5e0bb3b-d411-4e43-9519-1c41701c1423")
 	)
 	(gr_curve
@@ -6825,6 +7111,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b67fe2d7-6782-4804-a111-85f66c047bb3")
 	)
 	(gr_curve
@@ -6836,6 +7123,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b71f260b-d64e-437b-b627-aa2dfd989516")
 	)
 	(gr_curve
@@ -6847,6 +7135,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b7260845-751e-495a-a192-563353ff19cd")
 	)
 	(gr_curve
@@ -6858,6 +7147,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b7541d4b-9473-4f81-89ed-862c48639f0c")
 	)
 	(gr_curve
@@ -6869,6 +7159,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b766b883-df47-47a9-9fc5-941a87268c51")
 	)
 	(gr_curve
@@ -6880,6 +7171,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b7ce483b-3f1c-40e5-a3b3-a01353f5ebc7")
 	)
 	(gr_curve
@@ -6891,6 +7183,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b7cf9f05-33eb-445d-bd45-f2ac3d0318c5")
 	)
 	(gr_curve
@@ -6902,6 +7195,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b87a344b-0d5d-453e-91e6-b13d980a2f81")
 	)
 	(gr_curve
@@ -6913,6 +7207,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b9df3419-3197-4e64-8fcb-8bc1b500da3d")
 	)
 	(gr_curve
@@ -6924,6 +7219,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "b9f5cffb-3169-414e-92f5-a5da00b324d3")
 	)
 	(gr_curve
@@ -6935,6 +7231,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ba5672aa-7071-452f-8005-e201663326a5")
 	)
 	(gr_curve
@@ -6946,6 +7243,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ba7aee1c-68f1-4f92-8081-e8e72d105364")
 	)
 	(gr_curve
@@ -6957,6 +7255,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "baa4fa70-1b13-484c-8f02-97a6f78ae06b")
 	)
 	(gr_curve
@@ -6968,6 +7267,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bab906da-fcfc-4cc7-89de-62740461598c")
 	)
 	(gr_curve
@@ -6979,6 +7279,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bb5dcd15-26a5-48db-aa1d-320871d1c92e")
 	)
 	(gr_curve
@@ -6990,6 +7291,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bd5ee978-32df-42f0-9af0-9b7c8818a0b0")
 	)
 	(gr_curve
@@ -7001,6 +7303,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bd657ef1-195a-475d-8a51-5bc3c888c102")
 	)
 	(gr_curve
@@ -7012,6 +7315,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bdec4d63-7714-4c44-8c6e-d8ec94a45b31")
 	)
 	(gr_curve
@@ -7023,6 +7327,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "beaa5e42-2e6e-455c-aca1-8cc83a120019")
 	)
 	(gr_curve
@@ -7034,6 +7339,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "becdb686-d3ed-465b-bdae-bfb34d95d44e")
 	)
 	(gr_curve
@@ -7045,6 +7351,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bed708a6-6557-409e-9709-fda563ae887a")
 	)
 	(gr_curve
@@ -7056,6 +7363,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "bf54a7cd-0a12-4515-a760-0cc4e3391952")
 	)
 	(gr_curve
@@ -7067,6 +7375,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c1f7829a-c981-41f5-b8a0-12a3ce57bdbc")
 	)
 	(gr_curve
@@ -7078,6 +7387,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c2091888-e3df-4b21-9533-8cb3f0a2c60d")
 	)
 	(gr_curve
@@ -7089,6 +7399,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c24b4471-fb4e-4d73-91f8-8d0b6b41569b")
 	)
 	(gr_curve
@@ -7100,6 +7411,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c349744a-8bc8-4751-8a48-3d3c04e96273")
 	)
 	(gr_curve
@@ -7111,6 +7423,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c41dc19f-ba0b-477f-8f6e-5bf7b5feaa83")
 	)
 	(gr_curve
@@ -7122,6 +7435,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c457f7d0-00b1-4cc1-9099-d1d1cfd2a42a")
 	)
 	(gr_curve
@@ -7133,6 +7447,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c4cc2620-b1f9-4e5c-843f-f10a81a7f80e")
 	)
 	(gr_curve
@@ -7144,6 +7459,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c4d3e04a-342b-4d49-a8df-bf6f0f1ebd88")
 	)
 	(gr_curve
@@ -7155,6 +7471,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c5d6cc76-2dd1-45a1-ab94-faa68dd3e0a0")
 	)
 	(gr_curve
@@ -7166,6 +7483,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c5f28ed9-2179-4e1d-8b65-9ff956791c52")
 	)
 	(gr_curve
@@ -7177,6 +7495,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c627d223-facc-4e7b-ab73-7cdb39433471")
 	)
 	(gr_curve
@@ -7188,6 +7507,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c62f169a-52b7-4e1b-8f73-fb2dedf57609")
 	)
 	(gr_curve
@@ -7199,6 +7519,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c74b98d9-055b-488f-bbd8-6f79a82a6c04")
 	)
 	(gr_curve
@@ -7210,6 +7531,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "c7668318-ef13-40c3-b3b4-4c778248a584")
 	)
 	(gr_curve
@@ -7221,6 +7543,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ca661a97-2e55-41b1-b3d7-0e3a12a5d43d")
 	)
 	(gr_curve
@@ -7232,6 +7555,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cad9769f-45d1-4922-b770-80ffbec5071b")
 	)
 	(gr_curve
@@ -7243,6 +7567,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cb6a6e39-792d-45a0-90b9-22eb7c685007")
 	)
 	(gr_curve
@@ -7254,6 +7579,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cb9b0075-582c-42e7-a04b-4b6df830d96e")
 	)
 	(gr_curve
@@ -7265,6 +7591,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cc828d39-b3c5-4005-8ba4-31ec84d8888e")
 	)
 	(gr_curve
@@ -7276,6 +7603,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cc8b55c9-395f-4e51-b685-9659c699eb10")
 	)
 	(gr_curve
@@ -7287,6 +7615,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cce1f055-15b7-4548-bc14-2e868f90e371")
 	)
 	(gr_curve
@@ -7298,6 +7627,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cce93748-4b77-4d50-8eac-913984ef1fbf")
 	)
 	(gr_curve
@@ -7309,6 +7639,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ce7621d6-44bb-4eae-8ebe-1468959b3c8e")
 	)
 	(gr_curve
@@ -7320,6 +7651,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cecd94fa-9ef5-4991-8ed2-121ba2588435")
 	)
 	(gr_curve
@@ -7331,6 +7663,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cf003769-2f9b-4f3b-a7b1-31670568d2ad")
 	)
 	(gr_curve
@@ -7342,6 +7675,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cf2e271e-1957-424d-a1f4-7b93e8995608")
 	)
 	(gr_curve
@@ -7353,6 +7687,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cf63e377-7438-480e-98f6-3476eec6c3d1")
 	)
 	(gr_curve
@@ -7364,6 +7699,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "cfa9dce0-1ef8-495c-87af-626dd964e8e3")
 	)
 	(gr_curve
@@ -7375,6 +7711,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d03b4706-f349-4570-a986-0de3295401e9")
 	)
 	(gr_curve
@@ -7386,6 +7723,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d0571cf7-0a91-43e4-87b1-d291bd6a1694")
 	)
 	(gr_curve
@@ -7397,6 +7735,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d0d92ba0-f7d9-4c0b-b097-384b2c81562b")
 	)
 	(gr_curve
@@ -7408,6 +7747,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d16d3df6-ab90-4ec1-9aa6-40b677eba4dd")
 	)
 	(gr_curve
@@ -7419,6 +7759,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d2cffcd8-33cb-4226-906a-27cd74428822")
 	)
 	(gr_curve
@@ -7430,6 +7771,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d3581ea3-4100-446e-9cd9-ddcabfc0d607")
 	)
 	(gr_curve
@@ -7441,6 +7783,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d3dd2816-6761-41a5-bffe-f72e2bd98872")
 	)
 	(gr_curve
@@ -7452,6 +7795,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d53e261d-995d-4c5d-bce5-7360b11e84e6")
 	)
 	(gr_curve
@@ -7463,6 +7807,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d6592385-3a83-49fa-9192-03e4f7851984")
 	)
 	(gr_curve
@@ -7474,6 +7819,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d967e3b3-4b2b-4591-88b9-4ccc901b25ae")
 	)
 	(gr_curve
@@ -7485,6 +7831,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "d9f2d923-f2bc-4388-a643-746d7edddc82")
 	)
 	(gr_curve
@@ -7496,6 +7843,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "daebb8f9-2aa2-42be-9551-1f126cb0a408")
 	)
 	(gr_curve
@@ -7507,6 +7855,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "deb10895-d04e-4614-852d-258b7239ad35")
 	)
 	(gr_curve
@@ -7518,6 +7867,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "def74d96-b2cc-4a95-828c-dc98ca39b38b")
 	)
 	(gr_curve
@@ -7529,6 +7879,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "df37377d-6c4a-48fe-bc18-03d57409cb8a")
 	)
 	(gr_curve
@@ -7540,6 +7891,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "df5e41f4-2c29-4834-bb6f-e807670827cf")
 	)
 	(gr_curve
@@ -7551,6 +7903,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "df9c3ff4-8700-43cd-bb67-b3d9d15a3d0e")
 	)
 	(gr_curve
@@ -7562,6 +7915,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "dfcd869a-4bbf-46a0-b561-516b9b7ad0c4")
 	)
 	(gr_curve
@@ -7573,6 +7927,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e08185a7-1303-4d67-bcaf-47492a7696c0")
 	)
 	(gr_curve
@@ -7584,6 +7939,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e38e49d1-e310-43e4-8f35-d953426f8d98")
 	)
 	(gr_curve
@@ -7595,6 +7951,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e38e96ea-d7be-4724-acad-110e7b87d4f8")
 	)
 	(gr_curve
@@ -7606,6 +7963,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e3d96241-9d7c-4b51-acdb-ae735dd3228c")
 	)
 	(gr_curve
@@ -7617,6 +7975,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e3fb1957-0b05-42bd-ab9e-b4a895ae43f5")
 	)
 	(gr_curve
@@ -7628,6 +7987,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e4277af5-2f25-4841-8565-85ea5be16176")
 	)
 	(gr_curve
@@ -7639,6 +7999,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e5679bae-549b-4f75-941c-3059c4d3caaa")
 	)
 	(gr_curve
@@ -7650,6 +8011,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e59545d2-b175-4259-a094-fb57bb006f09")
 	)
 	(gr_curve
@@ -7661,6 +8023,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e5a06fcf-9d7f-44a7-86f0-b862e3534ce7")
 	)
 	(gr_curve
@@ -7672,6 +8035,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e7656972-8786-4a59-ac3c-ef9171befc88")
 	)
 	(gr_curve
@@ -7683,6 +8047,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e8e9e03e-71c1-4c24-a5eb-847efd40a28b")
 	)
 	(gr_curve
@@ -7694,6 +8059,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "e942e05a-00ab-4900-b66c-bfd066cf9d47")
 	)
 	(gr_curve
@@ -7705,6 +8071,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ea69e199-cb79-4368-bc30-24e217600fff")
 	)
 	(gr_curve
@@ -7716,6 +8083,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "eab236e9-ae51-4d7a-bf09-5d76147c1725")
 	)
 	(gr_curve
@@ -7727,6 +8095,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "eab993f0-78b4-47fe-ab49-2204d9b671a6")
 	)
 	(gr_curve
@@ -7738,6 +8107,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ec09fa23-e49d-4d53-92f4-633410058340")
 	)
 	(gr_curve
@@ -7749,6 +8119,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ec2ae168-88f4-453a-975f-5d361adfd927")
 	)
 	(gr_curve
@@ -7760,6 +8131,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ecaef830-e443-45e5-93a4-128f2a88ce2d")
 	)
 	(gr_curve
@@ -7771,6 +8143,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ed05a7cb-4bb4-4e87-8517-f5e6185bf15c")
 	)
 	(gr_curve
@@ -7782,6 +8155,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "edb31858-8bb2-44a2-863f-8f1815302072")
 	)
 	(gr_curve
@@ -7793,6 +8167,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "edbafe34-04df-4833-9d3c-b568dd835ae7")
 	)
 	(gr_curve
@@ -7804,6 +8179,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ee83bf2f-e89f-4c56-86a3-37dbbbdf2935")
 	)
 	(gr_curve
@@ -7815,6 +8191,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ef0a9eec-468a-41ca-b3fa-d42f5724732d")
 	)
 	(gr_curve
@@ -7826,6 +8203,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "efaf2123-2a80-458c-b1c8-d70ccf1a0909")
 	)
 	(gr_curve
@@ -7837,6 +8215,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "eff8e72d-ec08-4586-8a95-aaae14c00985")
 	)
 	(gr_curve
@@ -7848,6 +8227,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f0137838-26c6-464a-8f98-0d84de2f54c2")
 	)
 	(gr_curve
@@ -7859,6 +8239,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f02c8fa8-fbad-4baa-a40d-6c4d60fbce39")
 	)
 	(gr_curve
@@ -7870,6 +8251,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f087b38d-95f6-44c4-867a-51218019019a")
 	)
 	(gr_curve
@@ -7881,6 +8263,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f0a2832d-58b4-4801-8d8a-462181063503")
 	)
 	(gr_curve
@@ -7892,6 +8275,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f236bab9-3da6-498c-911a-a752d12504ed")
 	)
 	(gr_curve
@@ -7903,6 +8287,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f2f549a1-cdb8-4650-a6a3-57750a0bff7f")
 	)
 	(gr_curve
@@ -7914,6 +8299,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f2fc58b7-f2f0-4511-856a-7263ac8be4f7")
 	)
 	(gr_curve
@@ -7925,6 +8311,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f3943151-018c-419a-8dd9-4b60097c05c2")
 	)
 	(gr_curve
@@ -7936,6 +8323,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f4bb4646-5db2-4a40-ad16-e173da15e1c1")
 	)
 	(gr_curve
@@ -7947,6 +8335,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f504872e-45cd-4bc9-b2d3-3e5acd871da8")
 	)
 	(gr_curve
@@ -7958,6 +8347,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f5432a1a-b401-44c0-aadf-7570300cb49d")
 	)
 	(gr_curve
@@ -7969,6 +8359,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f5970aaa-2ff6-4882-bff9-ca0ffc0364f9")
 	)
 	(gr_curve
@@ -7980,6 +8371,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f89dfc75-3455-4907-876d-a1a881ff8fa3")
 	)
 	(gr_curve
@@ -7991,6 +8383,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f8d872b7-58e0-41ea-bbeb-544e0a515259")
 	)
 	(gr_curve
@@ -8002,6 +8395,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f8f6b117-3f8b-47e2-856d-250dac462c4d")
 	)
 	(gr_curve
@@ -8013,6 +8407,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f949fd25-b127-4efc-8654-9b50fe52eb41")
 	)
 	(gr_curve
@@ -8024,6 +8419,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f97c72d0-e6b6-43cc-8d75-630a3a3f3ecc")
 	)
 	(gr_curve
@@ -8035,6 +8431,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "f9e91a6d-7636-478f-885e-13527338330c")
 	)
 	(gr_curve
@@ -8046,6 +8443,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fa165977-6641-4053-acc0-c6c291dcc7be")
 	)
 	(gr_curve
@@ -8057,6 +8455,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fc9b5568-8d59-4fa4-91c0-0c1616c037e9")
 	)
 	(gr_curve
@@ -8068,6 +8467,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fd1b5cde-cdc7-420e-81f6-9d454b616fdb")
 	)
 	(gr_curve
@@ -8079,6 +8479,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fd92a7ab-9f2e-4a6d-a41a-359fa32953bd")
 	)
 	(gr_curve
@@ -8090,6 +8491,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fdbb9b07-e003-4928-9c1b-227f1d7d5dda")
 	)
 	(gr_curve
@@ -8101,6 +8503,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fdd41b2c-64a6-4f21-8fa9-1b3f3cde5a1b")
 	)
 	(gr_curve
@@ -8112,6 +8515,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fdecbdfa-35c4-4f96-93f7-007294db11fc")
 	)
 	(gr_curve
@@ -8123,6 +8527,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fe2a85d8-2b50-4dc6-8637-58e30a68dd6d")
 	)
 	(gr_curve
@@ -8134,6 +8539,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fe5f3fa7-450f-4b8b-aadf-b02b2e933027")
 	)
 	(gr_curve
@@ -8145,6 +8551,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fe78739c-2b40-42b5-b0a2-eabbd694cc36")
 	)
 	(gr_curve
@@ -8156,6 +8563,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "fe9588dc-1750-4e57-89db-d1ac08c8a110")
 	)
 	(gr_curve
@@ -8167,6 +8575,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ff1b1a10-71ee-4df9-a791-c44493ba922d")
 	)
 	(gr_curve
@@ -8178,6 +8587,7 @@
 			(type default)
 		)
 		(layer "F.Cu")
+		(net 1)
 		(uuid "ff834b5d-6c6f-4886-9aa3-c8c96d250509")
 	)
 	(gr_rect
