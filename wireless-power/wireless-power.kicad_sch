@@ -4390,6 +4390,12 @@
 		(uuid "9f5f0367-25c1-4a59-9d0c-b62e3ec20643")
 	)
 	(junction
+		(at 250.19 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3fc5c3c-0b19-41d0-b2eb-484f9a03ece4")
+	)
+	(junction
 		(at 173.99 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4579,6 +4585,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 55.88) (xy 250.19 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "251e8632-3a3e-4bf0-900f-88dbee706886")
+	)
+	(wire
+		(pts
 			(xy 59.69 45.72) (xy 48.26 45.72)
 		)
 		(stroke
@@ -4759,6 +4775,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 29.21) (xy 238.76 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5611a389-1958-4e81-8fe2-21502f9e256a")
+	)
+	(wire
+		(pts
 			(xy 215.9 29.21) (xy 228.6 29.21)
 		)
 		(stroke
@@ -4836,16 +4862,6 @@
 			(type default)
 		)
 		(uuid "6cea5544-777e-4532-9328-b06388bc5032")
-	)
-	(wire
-		(pts
-			(xy 209.55 55.88) (xy 256.54 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f65332a-d8da-4251-84c2-f6d3fcb2284a")
 	)
 	(wire
 		(pts
@@ -5099,7 +5115,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 29.21) (xy 238.76 29.21)
+			(xy 256.54 29.21) (xy 250.19 29.21)
 		)
 		(stroke
 			(width 0)
@@ -5186,6 +5202,16 @@
 			(type default)
 		)
 		(uuid "f69d72a8-588d-4087-884d-c2fe41875a3e")
+	)
+	(wire
+		(pts
+			(xy 209.55 55.88) (xy 250.19 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b1b572-7360-431d-a91a-7893625e40c7")
 	)
 	(wire
 		(pts
@@ -6815,6 +6841,71 @@
 			(project "wireless-power"
 				(path "/f75fbfb2-d47e-4bc2-9c6f-9018bbdc426d"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 256.54 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ff3b798-3264-41fa-b371-8ef2fda7747c")
+		(property "Reference" "#PWR010"
+			(at 256.54 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 260.096 57.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 256.54 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 256.54 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1fd53553-b0a8-441a-8494-4da2105e1fbc")
+		)
+		(instances
+			(project "wireless-power"
+				(path "/f75fbfb2-d47e-4bc2-9c6f-9018bbdc426d"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)

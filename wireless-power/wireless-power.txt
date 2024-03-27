@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-F_Cu.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-B_Cu.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-F_Paste.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-B_Paste.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-F_Mask.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-B_Mask.gbr'.
+Plotted to 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\BenjaminHalfyard\OneDrive - Duxion Motors Inc\Desktop\Personal\wireless-power\wireless-power\wireless-power-job.gbrjob'.
+Info: Done.
