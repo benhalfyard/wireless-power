@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-03-27T12:23:42-02:30*%
+%TF.ProjectId,wireless-power,77697265-6c65-4737-932d-706f7765722e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-03-27 12:23:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X111252000Y-56896000D02*
+X187188000Y-56896000D01*
+X187188000Y-96896000D01*
+X111252000Y-96896000D01*
+X111252000Y-56896000D01*
+M02*
